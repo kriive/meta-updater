@@ -40,6 +40,7 @@ GARAGE_TARGET_EXPIRE_AFTER ?= ""
 GARAGE_CUSTOMIZE_TARGET ?= ""
 
 SOTA_MACHINE ??="none"
+SOTA_MACHINE_up-board ?= "up-board"
 SOTA_MACHINE_rpi ?= "raspberrypi"
 SOTA_MACHINE_porter ?= "porter"
 SOTA_MACHINE_m3ulcb = "m3ulcb"
